@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Image Recognition(Linear Algebra Project))**
 
-- 🌱 I’m currently learning **OpenCV with Python**
+- 🌱 I’m currently learning **OpenCV and Yolo with Python**
 
 - 📫 How to reach me **adriellucasp.silva@gmail.com**
 
